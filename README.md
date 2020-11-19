@@ -3,4 +3,4 @@ Durante o ciclo de aprendizagem a prática é impreciodivel independente do que 
 
 Com esse projeto pode-se aprender sobre noções de html e css. Visto que a maioria do código são formas de alinhas e ajusta os componentes, aprendendo sobre flex box.
 
-Projeto desenvolvido por um instrutora da Digital Innovation One.
+Projeto desenvolvido por uma instrutora da Digital Innovation One.
